@@ -2,7 +2,7 @@ package week2;
 
 import java.util.Scanner;
 
-public class Week2 {
+public class MinToSec {
 
     public static void main(String[] args) {
 
