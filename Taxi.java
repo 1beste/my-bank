@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Öyle {
+public class Taxi {
 
     public static void main(String[] args) {
 
