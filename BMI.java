@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class bmi {
+public class BMI {
 
     public static void main(String[] args) {
 
