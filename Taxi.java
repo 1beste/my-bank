@@ -16,7 +16,7 @@ public class Taxi {
         double total = distance * amount;
         int opening = 15;
 
-        System.out.println("Total: " + total + opening);
+        System.out.println("Total: " + (total + opening));
 
     }
 
